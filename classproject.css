@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+}
+.container{
+    background-color: blueviolet;
+    display: flex;
+    padding: 30px;
+    
+    
+}
+.manu{color: navy;
+
+}
+.logo{
+    color: red;
+    font-size: 15px;
+    margin-bottom: 10px;
+
+}
+.logo img{
+    height: 30px;
+}
+    .menu select {
+margin-left: 70px;
+border: none;
+background-color: blueviolet;
+color: white;
+margin-top: 12px;
+
+    }
+.btn{
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.btn a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.material-symbols-outlined{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 14px;
+    color: white;
+}
+.circle{ border: 1px solid white;
+height: 20px; width: 20px;
+border-radius: 50%;
+
+}
+
+    /*banner sectoin  */
+    body{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOYGfSfRSiZvYNiVZ0HApB7gWA3Dr6Zjywm0pP6HGCqmmyxNl9YnlrRekBQ&s);
+        height: 600px;
+        background-size: cover;
+        
+    }
+    .section1{
+        text-align: center;
+        margin-top: 35px;
+    }
+    .section2{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 50px;
+      
+    }
+    .div1{
+        height: 200px;
+        width: 200px;
+        background-color: white;
+        text-align: center;
+        
+         }
+         .rate{
+            margin-top: 60px;
+         }
+         .rate p{margin-left: 20px;}
+    .div2{
+        height: 200px;
+        width: 200px;
+        background-color: blueviolet;
+        padding-top: 20px;
+        text-align: center;
+        
+        
+        
+    }
+    .div3{  height: 200px;
+        width: 200px;
+        background-color: white;
+        text-align: center;
+    }
+
+        /* section 3 */
+.section3{
+    text-align: center;
+    margin-top: 40px;
+    position: relative;
+}
+.section3 input{
+    height: 30px;
+    width: 300px;
+    border: none;
+    outline: none;
+}
+.section3 button{
+    height: 32px;  
+    border: none;
+    width: 100px;
+    background-color: orangered;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    right: 555px;
+    
+    
+}
+.section4{
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 20px;
+    color:white;
+}
+
+

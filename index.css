@@ -1,0 +1,33 @@
+.container{
+    background-image: url(image/bg-img.PNG);
+    height: 620px;
+    background-size: cover;
+}
+ul li>a{
+    margin-left: 30px;
+
+}
+.bold1{background-color:white;
+box-shadow: 1px 1px 7px navy;
+border: 1px solid gray;
+}
+.icon1 i{ height: 15px;}
+.section4{}
+label{
+    position: relative;
+}
+label input{
+    height: 35px;
+    width: 300px;
+    border: none;
+}
+ label button{
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   border: none;
+background-color: navy;
+   color: white;
+}
+label button:hover{background-color: aqua;}
